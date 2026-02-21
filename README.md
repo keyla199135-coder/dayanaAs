@@ -1,0 +1,2 @@
+# dayanaAs
+Scrip termux
