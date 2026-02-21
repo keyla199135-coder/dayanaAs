@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/moncji99/Sdominio```
+```bash $ git clone https://github.com/keyla199135-coder/dayanaAs.git```
 
-```bash $ cd Sdominio```
+```bash $ cd dayanaAs```
 
 ```bash $ pip3 install -r requirements.txt```
 
